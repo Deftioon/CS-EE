@@ -1,5 +1,9 @@
 # Miscellaneous
 data/
+indicators/
+models/
+toy_indicators/
+toy_models/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
